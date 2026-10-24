@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1480-movie-rating](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/1480-movie-rating) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
