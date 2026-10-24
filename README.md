@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0051-n-queens) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
