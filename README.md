@@ -10,6 +10,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
@@ -19,4 +20,12 @@
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
