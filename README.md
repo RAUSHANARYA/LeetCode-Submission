@@ -53,5 +53,14 @@
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0680-valid-palindrome-ii) |
 | [0800-letter-case-permutation](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0800-letter-case-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
