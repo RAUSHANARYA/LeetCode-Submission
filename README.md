@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0260-single-number-iii) |
+| [0526-beautiful-arrangement](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0526-beautiful-arrangement) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
@@ -21,6 +22,7 @@
 | [0231-power-of-two](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0342-power-of-four) |
+| [0526-beautiful-arrangement](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0526-beautiful-arrangement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0800-letter-case-permutation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -53,6 +55,7 @@
 | [0078-subsets](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0216-combination-sum-iii) |
+| [0526-beautiful-arrangement](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0800-letter-case-permutation) |
 ## String
 |  |
@@ -71,6 +74,7 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0198-house-robber) |
+| [0526-beautiful-arrangement](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0526-beautiful-arrangement) |
 ## Linked List
 |  |
 | ------- |
@@ -79,4 +83,8 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0047-permutations-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
