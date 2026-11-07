@@ -40,6 +40,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0342-power-of-four) |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0198-house-robber) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
