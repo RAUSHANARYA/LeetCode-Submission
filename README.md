@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0198-house-robber) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0216-combination-sum-iii) |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0203-remove-linked-list-elements) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
