@@ -15,6 +15,7 @@
 | [0216-combination-sum-iii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0260-single-number-iii) |
 | [0526-beautiful-arrangement](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0526-beautiful-arrangement) |
+| [0739-daily-temperatures](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0739-daily-temperatures) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
@@ -92,4 +93,12 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0526-beautiful-arrangement) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
