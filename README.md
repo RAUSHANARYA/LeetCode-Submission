@@ -7,6 +7,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -41,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0342-power-of-four) |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
