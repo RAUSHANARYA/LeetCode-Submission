@@ -35,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0205-isomorphic-strings) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -67,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0205-isomorphic-strings) |
 | [0680-valid-palindrome-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0680-valid-palindrome-ii) |
 | [0800-letter-case-permutation](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0800-letter-case-permutation) |
 ## Two Pointers
