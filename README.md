@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0078-subsets) |
@@ -75,11 +76,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0198-house-robber) |
