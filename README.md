@@ -140,4 +140,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0048-rotate-image) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
