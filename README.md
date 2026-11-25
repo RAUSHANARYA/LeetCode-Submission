@@ -17,6 +17,7 @@
 | [0216-combination-sum-iii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0414-third-maximum-number) |
 | [0526-beautiful-arrangement](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0526-beautiful-arrangement) |
 | [0739-daily-temperatures](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0739-daily-temperatures) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0047-permutations-ii) |
+| [0347-top-k-frequent-elements](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0414-third-maximum-number) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Bitmask
@@ -146,4 +149,24 @@
 |  |
 | ------- |
 | [2127-employees-whose-manager-left-the-company](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/2127-employees-whose-manager-left-the-company) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
