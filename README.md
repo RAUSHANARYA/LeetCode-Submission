@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0047-permutations-ii) |
@@ -127,6 +128,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RAUSHANARYA/LeetCode-Submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
